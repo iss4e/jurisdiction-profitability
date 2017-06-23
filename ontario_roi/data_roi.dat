@@ -1,0 +1,15 @@
+param T := 8737;
+param Y := 20;
+param DoD := 0;
+param MC := 1.0;
+param alpha_c := 0.52;		
+param alpha_d := 0.52;	
+param eta_c := 0.95;
+param eta_d := 0.95;
+param gamma := 0;	
+param T_u := 1.0;
+param p_plus := 0.25;#0.313;
+param inv_pv := 2220;
+param inv_b := 840;
+param i := 0; #0.02;
+param PV_max = 10;

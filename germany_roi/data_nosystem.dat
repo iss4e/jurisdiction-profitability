@@ -1,0 +1,17 @@
+param T := 8760;
+param Y := 20;
+param DoD := 0.15;
+param MC := 1.0;
+param alpha_c := 1.0;		
+param alpha_d := 1.0;	
+param eta_c := 0.95;
+param eta_d := 0.95;
+param gamma := 0;	
+param T_u := 1.0;
+param p_plus := 0.143; # in USD
+param p_minus := 0.344; # in USD
+param inv_pv := 1968;
+param inv_b := 960;
+param i := 0.02;
+param B := 0;
+param PV := 0;

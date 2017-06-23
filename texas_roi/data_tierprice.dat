@@ -1,0 +1,17 @@
+param a5 := 0.144;
+param a4 := 0.132;
+param a3 := 0.12;
+param a2 := 0.104;
+param a1 := 0.066;
+
+param a5s := 0.162;
+param a4s := 0.158;
+param a3s := 0.139;
+param a2s := 0.128;
+param a1s := 0.081;
+param gamma1 := 500;
+param gamma2 := 500;
+param gamma3 := 500;
+param gamma4 := 1000;
+param M := 12;
+
